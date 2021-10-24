@@ -1,0 +1,12 @@
+975d463 (HEAD -> master, develop) HEAD@{0}: merge develop: Fast-forward
+4e87971 HEAD@{1}: checkout: moving from develop to master
+975d463 (HEAD -> master, develop) HEAD@{2}: merge feature2: Merge made by the 'recursive' strategy.
+1593084 (feature1) HEAD@{3}: merge feature1: Fast-forward
+6f9de51 HEAD@{4}: checkout: moving from feature2 to develop
+fa5aef6 (feature2) HEAD@{5}: commit: add styles for index.html
+6f9de51 HEAD@{6}: checkout: moving from develop to feature2
+6f9de51 HEAD@{7}: checkout: moving from feature1 to develop
+1593084 (feature1) HEAD@{8}: commit: change index.html, add images
+56840ad HEAD@{9}: commit: add 3 images
+6f9de51 HEAD@{10}: checkout: moving from develop to feature1
+6f9de51 HEAD@{11}: commit: create branch develop, add index.html
